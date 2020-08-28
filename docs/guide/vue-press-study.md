@@ -90,7 +90,7 @@ footer: MIT Licensed | Copyright © 2020-present
 
 ### 运行项目
 ``` 
-vuepress dev docs
+npm run docs:dev
 ```
 
 运行上述代码，最后会提示预览的网址http://localhost:8080/
@@ -161,7 +161,7 @@ module.exports = {
 运行项目
 
 ``` 
-vuepress dev docs
+npm run docs:dev
 ```
 
 预览效果

@@ -20,12 +20,12 @@ module.exports = {
             {
                 title: '指南',
                 collapsable: false,
-                children: ['/guide/', '/guide/guide-about', '/guide/md-study', '/guide/vue-press-study'],
+                children: ['/guide/', '/guide/guide-about', '/guide/md-study', '/guide/vue-press-study', '/guide/bushu'],
             },
             {
                 title: '文章',
                 collapsable: false,
-                children: ['/articles/vue-about', '/articles/xcx-about', '/articles/css-about','/articles/js-about'],
+                children: ['/articles/git-about','/articles/vue-about', '/articles/xcx-about', '/articles/css-about','/articles/js-about'],
             },
         ]
     }
