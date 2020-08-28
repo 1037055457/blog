@@ -14,7 +14,7 @@ git add -A
 git commit -m 'deploy'
 ​
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-git push -f https://1037055457.github.io/blog
-# git push -f git@github.com:1037055457/blog.git master:gh-pages
+# git push -f https://1037055457.github.io/blog
+git push -f git@github.com:1037055457/blog.git master:gh-pages
 
 cd -
