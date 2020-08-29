@@ -1,5 +1,5 @@
 .temp/
-.temp
+.travis.yml
 deploy.sh
 node_modules/
 npm-debug.log*
