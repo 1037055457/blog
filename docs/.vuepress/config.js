@@ -9,6 +9,7 @@ module.exports = {
     markdown: {
         lineNumbers: false // 代码块显示行号
     },
+    plugins: ['@vuepress/back-to-top'],
     themeConfig: {
         nav: [
             { text: '首页', link: '/' },
