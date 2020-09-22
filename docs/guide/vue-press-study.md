@@ -14,6 +14,26 @@ node -v
 #安装  
 yarn global add vuepress # 或者：npm install -g vuepress
 ```
+
+## 局部安装（推荐）
+
+``` sh
+#安装  
+yarn add -D vuepress # npm install -D vuepress
+```
+::: warning 注意
+如果你的现有项目依赖了 webpack 3.x，我们推荐使用 Yarn 而不是 npm 来安装 VuePress。因为在这种情形下，npm 会生成错误的依赖树。
+:::
+
+查看webpack版本
+
+``` sh
+//查看webpack 版本信息
+$ npm info webpack
+//安装指定版本
+$ npm install webpack@1.31.x --save-dev
+```
+
 ### 创建项目  
 选择好项目文件存放位置之后，开始创建，即可右键手动新建文件夹，也可使用mkdir命令创建  
 
