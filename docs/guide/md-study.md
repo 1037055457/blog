@@ -1,9 +1,9 @@
 # Markdown学习
-::: tip 提示
+## 前沿
 有些资料是借鉴和参考网上收集来的，参考地址：  
 <https://www.runoob.com/markdown/md-paragraph.html>
 <https://blog.csdn.net/heimu24/article/details/81189700>
-:::
+
 
 ::: warning Markdown说明
 Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档。  
